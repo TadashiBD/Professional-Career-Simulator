@@ -33,7 +33,7 @@ a {
 }
 
 #inicio {
-    background-image: url(resource/images/portada.png);
+    background-image: url(/resource/images/portada.png);
     background-repeat: no-repeat;
     /* Centramos el fondo al centro */
     background-position: center;
@@ -84,7 +84,7 @@ a {
 }
 
 #presentacion h3 {
-    margin-top: 0;
+    margin-top: 1rem;
     margin-left: 3rem;
     font-size: 1.4rem;
 }
@@ -96,7 +96,7 @@ a {
     font-size: 1.2rem;
 }
 
-#presentacion button {
+#presentacion a {
     margin-left: 3rem;
     padding: 0.30rem;
     border-radius: 0.25rem;
