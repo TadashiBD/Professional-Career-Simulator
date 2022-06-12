@@ -33,7 +33,7 @@ a {
 }
 
 #inicio {
-    background-image: url(/resource/images/portada.png);
+    background-image: url(/public/assets/images/portada.png);
     background-repeat: no-repeat;
     /* Centramos el fondo al centro */
     background-position: center;
