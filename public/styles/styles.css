@@ -12,8 +12,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0 5rem;
 }
 
 nav > * + * {
@@ -33,7 +32,7 @@ a {
 }
 
 #inicio {
-    background-image: url(/public/assets/images/portada.png);
+    background-image: url(../assets/images/portada.png);
     background-repeat: no-repeat;
     /* Centramos el fondo al centro */
     background-position: center;
