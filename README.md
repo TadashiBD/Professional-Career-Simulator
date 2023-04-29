@@ -14,14 +14,6 @@ La plataforma se centra en un simulacion dentro de una realidad virtual en la qu
 - Estadisticas detallas de los alumnos inscritos.
 - Chat grupales y en pareja para interactuar entre ellos.
 
-## Autores ✒️
-
-- Yamile del Rocio Izaguirre Braul - ([GitHub](https://github.com/IzaYam))
-- Diego Alban Moreno - ([GitHub](https://github.com/DiegoAlban1223))
-- Gianella Pierina Guizado Pérez - ([GitHub](https://github.com/GianellaGP))
-- Luis Miguel Taipe Cadillo - ([GitHub](https://github.com/migueltaipe))
-- Jean Franco Andre Vega Rodriguez - ([GitHub](https://github.com/u20191559))
-
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia **MIT** - mira el archivo [LICENSE](LICENSE) para más detalles.
